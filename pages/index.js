@@ -22,7 +22,10 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Yeezo. I'm a software engineer.</p>
-        <p>This is my Blog website.</p>
+        <p>
+          This blog website is my creative space where I document and share my
+          thoughts, experiences and insights.
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
