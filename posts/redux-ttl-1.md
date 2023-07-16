@@ -119,5 +119,5 @@ npm install @reduxjs/toolkit react-redux
 
 ## 例子：
 
-1. https://github.com/gitdagray/react_redux_toolkit/tree/main/01_lesson
-2. https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson
+1. <https://github.com/gitdagray/react_redux_toolkit/tree/main/01_lesson>
+2. <https://github.com/gitdagray/react_redux_toolkit/tree/main/02_lesson>
